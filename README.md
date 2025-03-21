@@ -17,7 +17,7 @@ Some Information
 - Share / Use external devices
 - Designed for simplicity
 
-## Support
+## Support (Good)
 
 By default Domoticz is protected by a username (admin) and password (domoticz).
 
